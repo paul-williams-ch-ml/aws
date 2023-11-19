@@ -1,6 +1,10 @@
 .ipynb_checkpoints/
+
 aws-costs/ipynb_checkpoints/
 aws-costs/configuration.py
+aws-costs/__pycache__/*
+
 aws-metrics-retriever/.ipynb_checkpoints/
 aws-metrics-retriever/data/*
 aws-metrics-retriever/configuration.py
+aws-metrics-retriever/__pycache__/*
